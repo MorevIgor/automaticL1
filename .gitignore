@@ -3,6 +3,11 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
+.tmp/
+deamon/
+caches/
+wrapper/
+native/
 
 ### STS ###
 .apt_generated
