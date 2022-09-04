@@ -4,7 +4,7 @@ HELP.md
 .gradle
 build/
 .tmp/
-deamon/
+deamon/7.4/
 caches/
 wrapper/
 native/
